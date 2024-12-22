@@ -1,5 +1,9 @@
 # Image Segmentation for Autonomous Driving in Low-Light Conditions
 
+
+https://github.com/user-attachments/assets/51c45e39-94a6-43e0-ae7d-01d82549f548
+
+
 ### Project Overview
 
 This project aims to enhance autonomous vehicle perception by improving image segmentation in challenging environments, particularly in low-light and adverse weather conditions. The goal is to develop robust models capable of accurately distinguishing vehicles from their surroundings, thereby enhancing safety and reliability in autonomous driving systems.
@@ -44,12 +48,6 @@ This project aims to enhance autonomous vehicle perception by improving image se
    - Initial training on daytime images
    - Fine-tuning on nighttime imagery
    - Use of Dice loss and binary cross-entropy for optimization
-
-3. **Evaluation Metrics**:
-   - Accuracy
-   - Intersection over Union (IoU)
-   - Dice Coefficient
-   - Precision and Recall
 
 ### Results
 
